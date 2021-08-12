@@ -6,4 +6,3 @@
 Languages I am proficient in:
 C++ | Python
 
-I am hoping to learn a lot about Web Dev and Machine Learning over Summer 2021
